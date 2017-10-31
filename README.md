@@ -1,7 +1,8 @@
-# uqtoolkit
+# UQToolKit
 Simple Uncertainty Quantification Toolkit implemented in pure python from a single file.
 
 Implements polynomial chaos.
+
 
 ## Sample usage
 
