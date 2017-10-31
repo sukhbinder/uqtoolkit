@@ -1,3 +1,9 @@
+'''
+Implements PCE for Uncertainty Quantification. Inspired by the uqtoolkit.
+
+'''
+
+
 import numpy as np
 from scipy.misc import factorial
 
